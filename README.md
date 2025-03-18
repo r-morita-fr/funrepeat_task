@@ -1,8 +1,8 @@
-# Simple CRM - 顧客管理システム
+# Simple CRM - 顧客管理システム（例）
 
 シンプルでユーザーフレンドリーな顧客管理システムのフロントエンド実装です。このアプリケーションは、ログイン機能と顧客情報の管理機能を提供します。
 
-![アプリケーションのスクリーンショット](./screenshots/app-overview.png)
+![image](https://github.com/user-attachments/assets/401329ce-02bb-4e02-99f1-a574c28d00a7)
 
 ## 目次
 
